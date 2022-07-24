@@ -30,7 +30,9 @@ class litb {
 
 // application of litb
 
-let Instance = new litb(undefined, [{
-    name: "git",
-    //the rest is tbd (: have fun
-}])
+let Instance = new litb({
+    commands: [{
+        name: "git",
+        //the rest is tbd (: have fun
+    }]
+})
