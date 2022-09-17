@@ -1,5 +1,0 @@
-class parser {
-    constructor(){
-        
-    }
-}
